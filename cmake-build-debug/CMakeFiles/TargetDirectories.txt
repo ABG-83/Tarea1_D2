@@ -1,0 +1,4 @@
+C:/Users/Aless/OneDrive/Escritorio/Semestre 2 2024/Algoritmos y Estructuras de Datos ll/Tareas/Tarea1_D2/cmake-build-debug/CMakeFiles/generator.dir
+C:/Users/Aless/OneDrive/Escritorio/Semestre 2 2024/Algoritmos y Estructuras de Datos ll/Tareas/Tarea1_D2/cmake-build-debug/CMakeFiles/sorter.dir
+C:/Users/Aless/OneDrive/Escritorio/Semestre 2 2024/Algoritmos y Estructuras de Datos ll/Tareas/Tarea1_D2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aless/OneDrive/Escritorio/Semestre 2 2024/Algoritmos y Estructuras de Datos ll/Tareas/Tarea1_D2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
